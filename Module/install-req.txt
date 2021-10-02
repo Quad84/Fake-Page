@@ -1,0 +1,4 @@
+pyshorteners
+colorama
+pyngrok
+Beep

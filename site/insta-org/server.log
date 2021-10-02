@@ -1,0 +1,40 @@
+[Sun Sep 26 23:21:56 2021] PHP 8.0.10 Development Server (http://localhost:1111) started
+[Sun Sep 26 23:22:26 2021] [::1]:2259 Accepted
+[Sun Sep 26 23:22:26 2021] [::1]:2259 [302]: GET /
+[Sun Sep 26 23:22:26 2021] [::1]:2259 Closing
+[Sun Sep 26 23:22:27 2021] [::1]:2261 Accepted
+[Sun Sep 26 23:22:27 2021] [::1]:2261 [200]: GET /index.html
+[Sun Sep 26 23:22:27 2021] [::1]:2261 Closing
+[Sun Sep 26 23:22:37 2021] [::1]:2266 Accepted
+[Sun Sep 26 23:22:37 2021] [::1]:2266 [200]: GET /index_files/b67d172d5783.js.download
+[Sun Sep 26 23:22:37 2021] [::1]:2266 Closing
+[Sun Sep 26 23:22:38 2021] [::1]:2271 Accepted
+[Sun Sep 26 23:22:38 2021] [::1]:2271 [200]: GET /index_files/sdk.js.download
+[Sun Sep 26 23:22:38 2021] [::1]:2271 Closing
+[Sun Sep 26 23:22:39 2021] [::1]:2279 Accepted
+[Sun Sep 26 23:22:40 2021] [::1]:2279 [200]: GET /index_files/d1f0f06b39df.js.download
+[Sun Sep 26 23:22:40 2021] [::1]:2280 Accepted
+[Sun Sep 26 23:22:40 2021] [::1]:2280 [404]: GET /index_files/8e2c2a606042.js.download - No such file or directory
+[Sun Sep 26 23:22:40 2021] [::1]:2280 Closing
+[Sun Sep 26 23:22:40 2021] [::1]:2279 Closing
+[Sun Sep 26 23:22:40 2021] [::1]:2281 Accepted
+[Sun Sep 26 23:22:40 2021] [::1]:2281 [200]: GET /index_files/96f2557117a2.js.download
+[Sun Sep 26 23:22:40 2021] [::1]:2281 Closing
+[Sun Sep 26 23:22:40 2021] [::1]:2285 Accepted
+[Sun Sep 26 23:22:40 2021] [::1]:2285 [200]: GET /index_files/f9e5c0ca0804.js.download
+[Sun Sep 26 23:22:40 2021] [::1]:2285 Closing
+[Sun Sep 26 23:23:04 2021] [::1]:2289 Accepted
+[Sun Sep 26 23:23:04 2021] [::1]:2290 Accepted
+[Sun Sep 26 23:23:04 2021] [::1]:2291 Accepted
+[Sun Sep 26 23:23:04 2021] [::1]:2289 [200]: GET /index_files/f06b908907d5.png
+[Sun Sep 26 23:23:04 2021] [::1]:2290 [200]: GET /index_files/f55c258e826e.png
+[Sun Sep 26 23:23:04 2021] [::1]:2291 [200]: GET /index_files/4b70f6fae447.png
+[Sun Sep 26 23:23:04 2021] [::1]:2289 Closing
+[Sun Sep 26 23:23:05 2021] [::1]:2290 Closing
+[Sun Sep 26 23:23:05 2021] [::1]:2291 Closing
+[Sun Sep 26 23:23:12 2021] [::1]:2298 Accepted
+[Sun Sep 26 23:23:12 2021] [::1]:2298 [200]: POST /temp.php
+[Sun Sep 26 23:23:12 2021] [::1]:2298 Closing
+[Sun Sep 26 23:23:13 2021] [::1]:2299 Accepted
+[Sun Sep 26 23:23:13 2021] [::1]:2299 [404]: POST /favicon.ico - No such file or directory
+[Sun Sep 26 23:23:13 2021] [::1]:2299 Closing

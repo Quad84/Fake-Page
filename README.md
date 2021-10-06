@@ -4,7 +4,7 @@ first:
 install Module in install-req.txt
 
 
-#Usege in CMD:
+Usege in CMD:
 Python Fake-Page.py
 
 Usege in Linux:

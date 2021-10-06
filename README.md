@@ -1,5 +1,9 @@
 # Fake-Page
 
+first:
+install Module in install-req.txt
+
+
 Usege in CMD:
 Python Fake-Page.py
 
